@@ -1,0 +1,6 @@
+D:\ISM\ISMMatrix\ISMMatrix\bin\Debug\ISMMatrix.exe.config
+D:\ISM\ISMMatrix\ISMMatrix\bin\Debug\ISMMatrix.exe
+D:\ISM\ISMMatrix\ISMMatrix\bin\Debug\ISMMatrix.pdb
+D:\ISM\ISMMatrix\ISMMatrix\obj\Debug\ISMMatrix.csprojResolveAssemblyReference.cache
+D:\ISM\ISMMatrix\ISMMatrix\obj\Debug\ISMMatrix.exe
+D:\ISM\ISMMatrix\ISMMatrix\obj\Debug\ISMMatrix.pdb
